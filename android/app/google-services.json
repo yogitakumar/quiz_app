@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094546181605",
+    "project_id": "quizapp-fa10c",
+    "storage_bucket": "quizapp-fa10c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094546181605:android:87cbe0c3fdde1299baf30c",
+        "android_client_info": {
+          "package_name": "com.yogita.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094546181605-4du0hho5tvmhtu7q5rfte8kjnhfmamc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--Xb9hgkALzawlRpFxnvklk1wrOjkIQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094546181605-4du0hho5tvmhtu7q5rfte8kjnhfmamc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
